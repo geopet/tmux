@@ -4,4 +4,4 @@
 
 `% git clone git@github.com:geopet/tmux.git tmux`
 
-`% ln -s ~/tmux/tmux.conf ~/.tmux.conf`
+`% ln -s ~/path/to/this/tmux.conf ~/.tmux.conf`
